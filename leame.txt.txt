@@ -1,0 +1,12 @@
+GRUPO PRY_2 - ANÁLISIS Y DESARROLLO DE SOFTWARE.
+JUAN ANDRÉS RAMÍREZ PACHÓN, ANGIE VALENTINA LEÓN, KEVIN ESTIVEN VELASCO PINTO.
+*******************************************************************************
+Para tener en cuenta a la hora de reconstruir el proyecto es primero que todo cargar las librerías que están 
+en la carpeta "libraries", pues estas son las que se usarán para JAVAFX, y se eliminaron las librerías que eran
+propias de IntelliJ, como lo son Maven y además hay librerías que sirven para la parte de persistencia de 
+archivos .csv. Dichos archivos se encuentran en la parte de resources. Para correr el programa y la aplicación hay
+que ejecutar la clase Inicio que se encuentra en la parte del view y apartir de aquí se podrá interactuar con 
+ella normalmente. Por otro lado, es necesario recalcar que no se borraron las clases por defecto que brinda IntelliJ, 
+las cuales son HelloApplication y HelloController, que no afectan en nada el aplicativo pero que por razones que 
+desconocemos si se borran, deja de funcionar el programa. Finalmente solo queda disfrutar el aplicativo!
+Muchas gracias.

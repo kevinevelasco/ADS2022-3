@@ -1,0 +1,54 @@
+codigoAsignatura;nombre;tipoDeArea;numeroCreditos;prereq;coreq
+12345;null;null;0;;
+1295;Calculo Diferencial;NFF;3;;
+33518;Logica y Mate. Discretas;NFF;3;;
+33698;Intro. a la Programacion;NFF;3;;
+4075;Pensamiento Sistemico;NFF;3;;
+33763;Introduccion a la Ingenieria;NFF;2;;
+34809;Fundamentos Seguridad de la Informacion;NFF;2;;
+1297;Calculo Integral;NFF;3;1295;
+1290;Algebra Lineal;NFF;3;;
+33699;Programacion Avanzada;NFF;3;33698;
+34816;Gestion Financiera de Proyectos de TI;NFF;2;;
+33733;Proyecto de Diseno en Ingenieria;NFF;2;33763;
+34580;Arquitectura y Organizacion del Computador;NFF;2;33698;
+33732;Probabilidad y Estadistica;NFF;3;1297;
+33700;Bases de Datos;NFF;4;33518-33699;
+34805;Analisis y Diseno de SW;NFF;3;33699;
+4190;Comunicaciones y Redes;NFF;4;33698;
+4196;Estructuras de Datos;NFF;3;33518-33699;
+4082;Sistemas de Informacion;NFF;3;4075;33700
+34803;Gestion de Proy. De Inn. y Emprendimiento de TI;NFF;3;34816;
+34806;Fundamentos de Ingenieria de Software;NFF;3;34805;
+4085;Sistemas Operativos;NFF;3;34580;33732
+1299;Calculo Vectorial;NFF;3;1290-1297;
+34801;Teoria de la Computacion;NFF;2;33518-33699;
+34810;Proyecto de Innovacion y Emprendimiento;NFF;3;4082-34803-33733-34806;
+22586;Intro. Sistemas Distribuidos;NFF;2;34805-4190-34809-4085;
+1340;Fisica Mecanica;NFF;3;;
+1300;Ecuaciones Diferenciales;NFF;3;1297-1290;
+34866;Opti. y Simulacion;NFF;2;33732-1290;
+3194;Analisis de Algoritmos;NFF;2;34801-4196;
+34807;Desarrollo Web;NFF;3;34801-33700-34806-4190;
+34808;Introduccion a la Computacion Movil;NFF;2;33700-4190-34806;
+1291;Analisis Numerico;NFF;3;1300;
+4084;Intro. Inteligencia Artificial;NFF;3;4196;
+4185;Arquitectura de Software;NFF;3;34807-34808-22586;
+34802;Tecnologias Digitales Emergentes;NFF;2;12345;
+34804;Gerencia Estrategica de TI;NFF;2;34810;
+null;Electiva de Ciencias Basicas;NFF;3;;
+2544;Significacion Teologica;NFF;2;33733;
+2476;Fe y compromiso del ingeniero;NFF;2;34810;
+5100;Proyecto Social Universitario;NFF;2;34803-34806-22586;
+34863;Etica en la Era de la informacion;NFF;2;;
+16143;Constitucion y Derecho Civil;NFF;2;;
+2356;Epistemologia de la ingenieria;NFF;2;;
+31339;Planeacion de Proyecto Final;Enfasis;2;4082-34803;
+34814;Proyecto de Grado;Enfasis;3;31339-34810;4185
+null;null;Enfasis;3;;
+null;null;Enfasis;3;;
+null;null;Complementaria;3;;
+null;null;Complementaria;3;;
+null;null;Electiva;3;;
+null;null;Electiva;2;;
+null;null;Electiva;3;;

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="720.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.planestudios.proyectoanalisis.controller.ControlEventos">
+   <children>
+      <ImageView fitHeight="720.0" fitWidth="1000.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/pensumSistemas.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="B33578" layoutX="14.0" layoutY="178.0" mnemonicParsing="false" onAction="#show33518" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B33698" layoutX="14.0" layoutY="232.0" mnemonicParsing="false" onAction="#show33698" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B4075" layoutX="14.0" layoutY="313.0" mnemonicParsing="false" onAction="#show4075" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B33763" layoutX="14.0" layoutY="435.0" mnemonicParsing="false" onAction="#show33763" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B1297" layoutX="138.0" layoutY="53.0" mnemonicParsing="false" onAction="#show1297" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B1290" layoutX="138.0" layoutY="133.0" mnemonicParsing="false" onAction="#show1290" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B33699" layoutX="138.0" layoutY="232.0" mnemonicParsing="false" onAction="#show33699" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34816" layoutX="138.0" layoutY="371.0" mnemonicParsing="false" onAction="#show34816" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B33733" layoutX="138.0" layoutY="432.0" mnemonicParsing="false" onAction="#show33733" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B33732" layoutX="260.0" layoutY="53.0" mnemonicParsing="false" onAction="#show33732" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B33700" layoutX="259.0" layoutY="279.0" mnemonicParsing="false" onAction="#show33700" prefHeight="47.0" prefWidth="100.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34805" layoutX="263.0" layoutY="402.0" mnemonicParsing="false" onAction="#show34805" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B4190" layoutX="260.0" layoutY="466.0" mnemonicParsing="false" onAction="#show4190" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34580" layoutX="138.0" layoutY="594.0" mnemonicParsing="false" onAction="#show34580" prefHeight="61.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="Belectiva1" layoutX="138.0" layoutY="666.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B2544" layoutX="262.0" layoutY="612.0" mnemonicParsing="false" onAction="#show2544" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="Belectiva2" layoutX="262.0" layoutY="665.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B4085" layoutX="385.0" layoutY="590.0" mnemonicParsing="false" onAction="#show4085" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="Bcomplementaria1" layoutX="386.0" layoutY="664.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34803" layoutX="386.0" layoutY="365.0" mnemonicParsing="false" onAction="#show34803" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B4082" layoutX="385.0" layoutY="313.0" mnemonicParsing="false" onAction="#show4082" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B4196" layoutX="385.0" layoutY="232.0" mnemonicParsing="false" onAction="#show4196" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="Bcomplementaria2" layoutX="508.0" layoutY="611.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="Belectiva3" layoutX="508.0" layoutY="664.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B22586" layoutX="508.0" layoutY="551.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34806" layoutX="385.0" layoutY="514.0" mnemonicParsing="false" onAction="#show34806" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34810" layoutX="508.0" layoutY="432.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B3194" layoutX="631.0" layoutY="290.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34801" layoutX="508.0" layoutY="178.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B2476" layoutX="631.0" layoutY="590.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34808" layoutX="631.0" layoutY="466.0" mnemonicParsing="false" prefHeight="61.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34807" layoutX="631.0" layoutY="405.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34866" layoutX="632.0" layoutY="193.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B1300" layoutX="632.0" layoutY="133.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B1340" layoutX="631.0" layoutY="53.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B1291" layoutX="755.0" layoutY="133.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B31339" layoutX="755.0" layoutY="326.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B4084" layoutX="755.0" layoutY="225.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B4185" layoutX="755.0" layoutY="405.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B5100" layoutX="755.0" layoutY="520.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34863" layoutX="755.0" layoutY="601.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="Benfasis1" layoutX="756.0" layoutY="663.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34802" layoutX="872.0" layoutY="268.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="100.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34814" layoutX="872.0" layoutY="330.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="100.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34804" layoutX="872.0" layoutY="439.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="100.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B16143" layoutX="872.0" layoutY="545.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="100.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B2356" layoutX="872.0" layoutY="605.0" mnemonicParsing="false" onAction="#show2356" prefHeight="54.0" prefWidth="100.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="Benfasis2" layoutX="872.0" layoutY="663.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="100.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B34809" layoutX="14.0" layoutY="547.0" mnemonicParsing="false" onAction="#show34809" prefHeight="54.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B1295" layoutX="14.0" layoutY="53.0" mnemonicParsing="false" onAction="#show1295" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="B1299" layoutX="508.0" layoutY="53.0" mnemonicParsing="false" prefHeight="47.0" prefWidth="93.0" style="-fx-background-color: 000000;" />
+      <Button fx:id="Batras" layoutX="12.0" layoutY="647.0" mnemonicParsing="false" onAction="#go_back" style="-fx-background-color: #3498DB;" text="Ir a inicio">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
